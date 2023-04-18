@@ -1,0 +1,34 @@
+body {
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.conteudo {
+    width: 900px;
+}
+
+.fix {
+    clear: both;
+}
+
+.noticias {
+    padding: auto;
+}
+
+.noticia {
+    background: #e5e5e5;
+    width: 225px;
+    height: 190px;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+}
+
+.imagem-galeria {
+    background-color: #ffffff;
+    width: 265px;
+    padding: 5px;
+    float: left;
+    margin: 5px;
+}
